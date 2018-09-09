@@ -1,0 +1,10 @@
+C:\Users\Даулет\Desktop\Time\Time\bin\Debug\Time.exe.config
+C:\Users\Даулет\Desktop\Time\Time\bin\Debug\Time.exe
+C:\Users\Даулет\Desktop\Time\Time\bin\Debug\Time.pdb
+C:\Users\Даулет\Desktop\Time\Time\obj\Debug\Time.csprojResolveAssemblyReference.cache
+C:\Users\Даулет\Desktop\Time\Time\obj\Debug\Time.Form1.resources
+C:\Users\Даулет\Desktop\Time\Time\obj\Debug\Time.Properties.Resources.resources
+C:\Users\Даулет\Desktop\Time\Time\obj\Debug\Time.csproj.GenerateResource.cache
+C:\Users\Даулет\Desktop\Time\Time\obj\Debug\Time.csproj.CoreCompileInputs.cache
+C:\Users\Даулет\Desktop\Time\Time\obj\Debug\Time.exe
+C:\Users\Даулет\Desktop\Time\Time\obj\Debug\Time.pdb
